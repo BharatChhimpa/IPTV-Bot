@@ -1,3 +1,9 @@
+
+[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20to-Heroku-purple?style=for-the-badge&logo=heroku)](https://www.heroku.com/deploy?template=https://github.com/BharatChhimpa/IPTV-Bot)
+
+
+
+
 # IPTV Bot
 
 Watch IPTV streams right in Telegram App, send name of the channel bot will respond with available streams to watch, There are 6000+ online streams available from all over the world all the time. Try this at [@myiptvrobot](https://t.me/myiptvrobot).
